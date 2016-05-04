@@ -1,0 +1,14 @@
+layout_spectrum: 0.3223262
+typography_spectrum: 0.1621087
+color:
+  saturation: 0.2547776
+  lightness: 0.3627289
+  brandStrength: 0.8461751
+  rhythmicContrast: 0.01685838
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Neev
