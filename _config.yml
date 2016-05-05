@@ -1,14 +1,26 @@
-layout_spectrum: 0.3223262
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.1621087
 color:
-  saturation: 0.2547776
-  lightness: 0.3627289
+  saturation: 0.6106383
   brandStrength: 0.8461751
-  rhythmicContrast: 0.01685838
+  lightness: 0.9510638
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  rhythmicContrast: 0.6957447
+layout_spectrum: 0.3223262
 name: Neev
